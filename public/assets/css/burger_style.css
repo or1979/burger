@@ -1,0 +1,29 @@
+body {
+    background-color: yellow;
+    font-family: 'Lato', sans-serif;
+}
+
+* {
+    background-color: #FBF6C3;
+}
+
+pre {
+    background-color: #77F290;
+    font-size: 1.5em;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 500px;
+     height: 320px;
+     /* object-fit: contain; */
+}
+
+.form-control[readonly] {
+    color: black;
+    margin: 5px;
+    border: 20px;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+}
